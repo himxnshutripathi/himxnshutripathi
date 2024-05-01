@@ -16,10 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/himanshu tripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="himanshu tripathi" height="30" width="40" /></a>
+<a href="https://twitter.com/himxnshureads" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="himanshu tripathi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/himxnshutripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himxnshutripathi" height="30" width="40" /></a>
 <a href="https://instagram.com/whohimxnshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whohimxnshu" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/himxnshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="himxnshu" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCQsv4paWadZtpLwJ3H7Om6A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="himxnshu" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/himxnshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="himxnshu" height="30" width="40" /></a>
 </p>
 
