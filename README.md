@@ -35,8 +35,7 @@
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-<img src="![photoshop](https://github.com/himxnshutripathi/himxnshutripathi/assets/55108251/cb6bf973-4ca4-4be4-b919-e1e9303aceb0)
-" alt="photoshop" width="40" height="40"/>
+<img src="https://github.com/himxnshutripathi/himxnshutripathi/assets/55108251/cb6bf973-4ca4-4be4-b919-e1e9303aceb0" alt="photoshop" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
