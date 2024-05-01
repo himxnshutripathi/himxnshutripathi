@@ -1,4 +1,4 @@
-[![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGNmYjU2d3hrcWN3NmozYW1pNjk5dHE3aGVwdGtweGh4NzRsaGNwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)]
+[![MasterHead]([https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGNmYjU2d3hrcWN3NmozYW1pNjk5dHE3aGVwdGtweGh4NzRsaGNwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg))]
 
 <h1 align="center">Hi 👋, I'm Himanshu Tripathi</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
