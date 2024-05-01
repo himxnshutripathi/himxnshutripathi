@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himxnshutripathi&label=Profile%20views&color=0e75b6&style=flat" alt="himxnshutripathi" /> </p>
 
-<p align="left"> <a href="https://twitter.com/himanshu tripathi" target="blank"><img src="https://img.shields.io/twitter/follow/himanshu tripathi?logo=twitter&style=for-the-badge" alt="himanshu tripathi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/himxnshureads" target="blank"><img src="https://img.shields.io/twitter/follow/himanshu tripathi?logo=twitter&style=for-the-badge" alt="himanshu tripathi" /></a> </p>
 
 - 🌱 I’m currently learning **React Js**
 
