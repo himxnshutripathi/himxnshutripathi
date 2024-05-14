@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/himxnshureads" target="blank"><img src="https://img.shields.io/twitter/follow/himanshu tripathi?logo=twitter&style=for-the-badge" alt="himanshu tripathi" /></a> </p>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Generative AI**
 
 - 👨‍💻 All of my projects are available at [https://itshimanshutripathi.netlify.app/](https://itshimanshutripathi.netlify.app/)
 
