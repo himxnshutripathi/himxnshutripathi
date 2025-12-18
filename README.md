@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **tripathi.himanshu9329@gmail.com**
 
-- 📄 Know about my experiences [https://itshimanshutripathi.netlify.app/himCV.pdf](https://drive.google.com/file/d/1InTVitk1az5fvaNFxRY4fZA_1lju7ckh/view?usp=drive_link)
+- 📄 Know about my experiences [here.](https://drive.google.com/file/d/1InTVitk1az5fvaNFxRY4fZA_1lju7ckh/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
